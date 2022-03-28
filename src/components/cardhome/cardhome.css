@@ -1,0 +1,10 @@
+.mycard {
+    cursor: pointer;
+}
+
+.mycard:hover {
+    transform: translateY(1rem);
+    /* background-color: #ffc107 !important; */
+    background-color: darkcyan !important;
+    /* color: black !important; */
+}
